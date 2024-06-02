@@ -176,26 +176,3 @@ The application is containerized using Docker. The Docker setup includes a web s
 ## Rate Limiting
 
 Friend requests are rate-limited to a maximum of 3 requests per minute.
-
-## Contributing
-
-Contributions are welcome! Please create an issue or pull request if you have any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-### Explanation
-
-- **Features**: Lists the main features of the application.
-- **Technologies Used**: Lists the main technologies used in the project.
-- **Prerequisites**: Specifies that Docker and Docker Compose are required.
-- **Installation**: Detailed steps to set up the project, including cloning the repository, setting environment variables, building and running Docker containers, and creating a superuser.
-- **API Endpoints**: Detailed information about each API endpoint, including URLs, methods, headers, and example request bodies.
-- **Containerization**: Information about the Docker setup.
-- **Rate Limiting**: Information about the rate-limiting feature.
-- **Contributing**: Invitation to contribute to the project.
-- **License**: Information about the project's license.
-
-This `README.md` file provides all necessary information for setting up and testing your Django Rest Framework API.
